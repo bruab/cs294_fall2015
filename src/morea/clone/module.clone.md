@@ -23,6 +23,6 @@ morea_assessments:
 morea_type: module
 morea_sort_order: 2
 ---
-![panda](/morea/clone/panda.png)
+![](morea/clone/panda.png)
 
 In this module you'll get a gentle introduction to version control with git, and have a chance to weigh in on hot topics like reproducibility, open data, and your expectations for this class.

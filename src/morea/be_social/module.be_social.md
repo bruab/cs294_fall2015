@@ -18,6 +18,6 @@ morea_assessments:
 morea_type: module
 morea_sort_order: 1
 ---
-![octocat](/morea/be_social/Octocat.png)
+![](morea/be_social/Octocat.png)
 
 This is the first module, in which you'll set up online accounts for hosting code and blog posts. Click on "Reading" for info and "Experiential Learning" for submission instructions.
