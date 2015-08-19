@@ -18,6 +18,6 @@ TL;DR Click on "Readings" and read the stuff. Then click on "Experiences" and do
 
 #### Welcome - (08/24/2015)
 
-Thanks for signing up. Not to be a jerk or anything, but please note that modules 1-4 are ALL DUE by Friday, September 4th. That's 4 assignments and two blog posts. Get in touch with me if you're not clear on how to get started!
+Thanks for signing up. Not to be a jerk or anything, but please note that modules 1-4 are ALL DUE by Friday, September 4th. That's seven assignments and three blog posts in two weeks. Get in touch with me if you're not clear on how to get started!
 
 <hr />
