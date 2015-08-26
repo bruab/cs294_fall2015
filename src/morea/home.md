@@ -10,7 +10,7 @@ This class will focus on skills and tools and techniques necessary to use Python
 
 Here is the [syllabus](http://tinyurl.com/cs294-python-syllabus). TL;DR Click on "Readings" and read the stuff. Then click on "Experiences" and do the stuff.
 
-Here's the [calendar](http://tinyurl.com/cs294-python-calendar).
+Here's the [calendar](http://tinyurl.com/cs294-python-calendar). Here are the class [repos](https://github.com/cs294-python/).
 
 
 <hr />
