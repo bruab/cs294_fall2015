@@ -7,6 +7,8 @@ morea_summary: "Paste the URL to your profile page into Laulima for sweet sweet 
 morea_sort_order: 1
 morea_labels:
  - 10 min
+ - 1 pt
+ - due Sep 4
 ---
 
 ### Create a GitHub account

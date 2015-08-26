@@ -7,11 +7,13 @@ morea_summary: "Experiment with Vim in a nice, comfortable sandbox"
 morea_sort_order: 1
 morea_labels:
  - 30-45 min
+ - 1 pt
+ - due Sep 4
 ---
 
 ### Try Vim Online
 
-Visit this [super-adorable online vim tutorial](http://www.openvim.com/tutorial.html). Complete as much as you can, take a screenshot, then upload it to [Laulima](https://laulima.hawaii.edu/portal) for points points points.
+Visit this [super-adorable online vim tutorial](http://www.openvim.com/tutorial.html). Complete as much as you can, take a screenshot, then email it to me for points points points.
 
 If the site is slow, or if you're feeling extra hackery today, you can run the tutorial locally:
 

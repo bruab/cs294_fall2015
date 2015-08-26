@@ -7,10 +7,13 @@ morea_summary: "No turning back now"
 morea_sort_order: 1
 morea_labels:
  - 1 hr
+ - 1 pt
+ - due Sep 4
+ - TODO
 ---
 
 ### Fork/Clone/Modify/Add/Commit/Push
 
 TODO
 
-Paste a link to your repository into [Laulima](https://laulima.hawaii.edu/portal) for credit.
+Email me a link to your repository for credit.

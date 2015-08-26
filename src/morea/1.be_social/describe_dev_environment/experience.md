@@ -7,6 +7,8 @@ morea_summary: "Nobody will make fun of you"
 morea_sort_order: 2
 morea_labels:
  - 1 hr
+ - 1 pt
+ - due Sep 4
 ---
 
 ### Describe Your Dev Environment
