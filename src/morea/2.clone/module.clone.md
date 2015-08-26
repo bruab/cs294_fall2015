@@ -13,6 +13,7 @@ morea_readings:
   - set_up_git_reading
   - hpc_reading
   - resources_reading
+  - clone_slides_reading
 morea_experiences:
   - clone_experience
   - data_sharing_blog_experience
