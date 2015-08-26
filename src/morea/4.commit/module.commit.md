@@ -15,7 +15,7 @@ morea_experiences:
   - try_git_online_experience
 morea_icon_url: /morea/4.commit/fork.jpg
 morea_assessments:
-  #- assessment1
+  - commit_assessment
 morea_type: module
 morea_sort_order: 4
 ---

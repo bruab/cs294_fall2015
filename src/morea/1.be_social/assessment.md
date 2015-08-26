@@ -6,4 +6,4 @@ morea_type: assessment
 morea_sort_order: 1
 ---
 
-? IDK yet.
+One of the outcomes for this module is 
