@@ -12,6 +12,7 @@ Here is the [syllabus](http://tinyurl.com/cs294-python-syllabus). TL;DR Click on
 
 Here's the [calendar](http://tinyurl.com/cs294-python-calendar). Here are the class [repos](https://github.com/cs294-python/).
 
+If you're running VirtualBox with the Ubuntu image I provided, the sudo password is "cs294_fall2015" without the quotes.
 
 <hr />
 

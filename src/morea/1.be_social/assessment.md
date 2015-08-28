@@ -6,4 +6,6 @@ morea_type: assessment
 morea_sort_order: 1
 ---
 
-One of the outcomes for this module is 
+Almost everybody has created blogs and GitHub accounts. Here they are:
+
+# TODO

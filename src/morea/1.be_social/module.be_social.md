@@ -18,7 +18,7 @@ morea_experiences:
   - describe_dev_environment_experience
 morea_icon_url: /morea/1.be_social/Octocat.png
 morea_assessments:
-  #- be_social_assessment
+#- be_social_assessment
 morea_type: module
 morea_sort_order: 1
 ---
