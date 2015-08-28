@@ -6,6 +6,4 @@ morea_type: assessment
 morea_sort_order: 1
 ---
 
-Almost everybody has created blogs and GitHub accounts. Here they are:
-
-# TODO
+Here is a [sweet wordcloud](http://imgur.com/Yj8h7aH) representing our feelings about Laulima.
