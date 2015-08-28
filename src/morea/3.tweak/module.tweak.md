@@ -13,12 +13,12 @@ morea_readings:
 morea_experiences:
   - vim_online_experience
   - vim_locally_experience
-morea_icon_url: /morea/3.tweak/vim.png
+morea_icon_url: /morea/images/vim.png
 morea_assessments:
   #- assessment1
 morea_type: module
 morea_sort_order: 3
 ---
-![](morea/3.tweak/vim.png)
+![](../../morea/images/vim.png)
 
 Begin climbing one of the steepest learning curves out there. You'll use vim, a command line text editor guaranteed to make you look, feel and smell like a hacker.
