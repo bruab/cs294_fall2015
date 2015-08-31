@@ -13,7 +13,7 @@ morea_labels:
 
 ### Try Vim Online
 
-Visit this [super-adorable online vim tutorial](http://www.openvim.com/tutorial.html). Complete as much as you can, take a screenshot, then email it to me for points points points.
+Visit this [super-adorable online vim tutorial](http://www.openvim.com/tutorial.html). Complete as much as you can, take one screenshot (of the completed tutorial, or of the step where you gave up), then email it to me for points points points.
 
 If the site is slow, or if you're feeling extra hackery today, you can run the tutorial locally:
 
