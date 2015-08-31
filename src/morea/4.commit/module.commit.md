@@ -21,4 +21,4 @@ morea_sort_order: 4
 ---
 ![](../../morea/images/fork.jpg)
 
-Begin climbing one of the steepest learning curves out there. You'll use vim, a command line text editor guaranteed to make you look, feel and smell like a hacker.
+Today you get your first taste of the basic development cycle. It's okay if it all feels weird at first; by the end of the semester you'll be committing in your sleep.
