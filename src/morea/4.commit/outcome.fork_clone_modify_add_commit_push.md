@@ -6,4 +6,4 @@ morea_type: outcome
 morea_sort_order: 2
 ---
 
-Students will fork an open source code repository, clone it to their development machine, use command line tools to modify the code according to instructions, commit their changes, and push the new repository to their public GitHub account. Yes, kind of a big deal.
+Students will fork an open source repository, clone it to their development machine, use command line tools to modify the content according to instructions, commit their changes, and push the new repository to their public GitHub account. Yes, kind of a big deal.

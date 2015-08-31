@@ -12,6 +12,7 @@ morea_readings:
   - blog_service_reading
   - be_social_slides
   - real_world_skills_reading
+  - dev_env_setup_reading
 morea_experiences:
   - create_github_account_experience
   - create_blog_experience
