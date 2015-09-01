@@ -9,4 +9,5 @@ morea_sort_order: 1
 Here is a sweet wordcloud representing our feelings about Laulima.
 
 ![](../../morea/images/laulima_feelings.wordcloud.png)
+![](../morea/images/laulima_feelings.wordcloud.png)
 
