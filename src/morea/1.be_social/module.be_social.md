@@ -13,6 +13,7 @@ morea_readings:
   - be_social_slides
   - real_world_skills_reading
   - dev_env_setup_reading
+  - wtf_is_command_line_reading
 morea_experiences:
   - create_github_account_experience
   - create_blog_experience
