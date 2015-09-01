@@ -9,7 +9,7 @@ morea_outcomes:
 morea_readings:
   - why_vim_reading1
   - why_vim_reading2
-      #- vim_lessons_reading
+  - tweak_slides_reading
 morea_experiences:
   - vim_online_experience
   - vim_locally_experience
