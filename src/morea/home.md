@@ -18,6 +18,12 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 ## News
 
+#### Command Line Vine Contest
+
+Someone mentioned animated gifs and vines in class. I'll offer 1 point to anyone who submits one which demonstrates something you can do at the command line. It doesn't have to be Python, but it can be. Inspired by [this chrome plugin](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai), here is [mine](http://imgur.com/Dgk4Le9). Best submission (to be decided by popular vote) gets three points. Deadline: Tuesday, September 15.
+
+<hr />
+
 #### Blog Post Grades
 
 Your first three blog posts aren't due until Friday, 9/4, but I've graded most of what's been submitted. Some of you have really pushed the boundaries of slackery; some of you got bonus points. To see examples of posts worth 1.5-2 points, take a look at [this one](http://gigaelectronvolts.tumblr.com/post/127461192421/data-sharing) or [this one](https://johfa.wordpress.com/2015/08/25/the-development-environment/) or maybe [this one](https://mkb0517.wordpress.com/2015/08/26/describing-my-dev-environment-because-apparently-thats-a-thing/). Notice the presence of links, images, good organization, thoroughness, introspection and snark.
