@@ -9,6 +9,7 @@ morea_outcomes:
 morea_readings:
   - why_git_reading
   - norvig_reading
+  - commit_slides_reading
 morea_experiences:
   - expectations_blog_experience
   - fork_clone_modify_add_commit_push_experience
