@@ -18,6 +18,12 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 ## News
 
+#### Conferences
+
+No class on Monday, September 7th. (It's Labor Day.) The following Wednesday (9/9) and the Monday after (9/14) we'll have conferences. Each student should sign up for one time slot, either on Wednesday or on Monday (not both). [Here](https://docs.google.com/spreadsheets/d/1VGaXQUSWVQ1XiD89y3z9c-bUYEakARU_bzK251VzcJY/edit?usp=sharing) is a link to the signup sheet. You have to edit the document to sign up, which means being logged in with your UH account. LMK if that's a pain.
+
+<hr />
+
 #### Command Line Vine Contest
 
 Someone mentioned animated gifs and vines in class. I'll offer 1 point to anyone who submits one which demonstrates something you can do at the command line. It doesn't have to be Python, but it can be. Inspired by [this chrome plugin](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai), here is [mine](http://imgur.com/Dgk4Le9). Best submission (to be decided by popular vote) gets three points. Deadline: Tuesday, September 15.
