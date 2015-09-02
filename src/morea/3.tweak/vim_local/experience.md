@@ -11,7 +11,7 @@ morea_labels:
  - due Sep 4
 ---
 
-### Try Vim Online
+### Try Vim Locally
 
 Here's a [lesson](http://codenhance.com/2015/08/26/how-to-vim/) I slapped together. You'll clone a repository with some lovely poetry in it, only to find one of the poems has been mangled. You'll then time yourself using Vim to fix the poem four times, following four different approaches. (Inbetween fixes, you'll use 'git checkout' to undo your edits on the file.)
 
