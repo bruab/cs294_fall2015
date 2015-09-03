@@ -21,4 +21,4 @@ The more you can tell me, the better the class will be, so don't hold back.
 Opinions on the class format are also welcome, though it may be too late to
 fix some stuff.
 
-Email me a link to your post for credit.
+Email me a link to your post for credit. Here's [my post](http://www.reallymany.com/blog/2015/09/02/cs-294-fall-2015-expectations/) on this topic.
