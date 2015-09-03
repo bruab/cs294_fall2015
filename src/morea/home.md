@@ -18,6 +18,21 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 ## News
 
+#### Mystery Assignment
+
+I. Find a Python project of interest on GitHub*. Clone and run the code from the command line. (No need to fork unless you just love forking.) Send me an email with four pieces of information:
+
+1. The URL to the repository
+2. Why you picked this project
+3. The command you ran
+4. The result of running the command
+
+If you clone something and you can't get it to run, don't worry -- it happens. Just delete it and try another project.
+
+*[Here](https://github.com/praw-dev/praw) are [some](https://github.com/thearn/game-of-life) [suggestions](https://github.com/getpelican/pelican/), but you should really search or browse and find something you like.
+
+<hr />
+
 #### Conferences
 
 No class on Monday, September 7th. (It's Labor Day.) The following Wednesday (9/9) and the Monday after (9/14) we'll have conferences. Each student should sign up for one time slot, either on Wednesday or on Monday (not both). [Here](https://docs.google.com/spreadsheets/d/1VGaXQUSWVQ1XiD89y3z9c-bUYEakARU_bzK251VzcJY/edit?usp=sharing) is a link to the signup sheet. You have to edit the document to sign up, which means being logged in with your UH account. LMK if that's a pain.
