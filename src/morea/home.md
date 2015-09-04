@@ -29,6 +29,8 @@ I. Find a Python project of interest on GitHub*. Clone and run the code from the
 
 If you clone something and you can't get it to run, don't worry -- it happens. Just delete it and try another project.
 
+If you chose a library/module instead of a script/standalone program, instead try navigating into the repository you cloned and typing `python -c "import <name_of_library>"`. (If you don't know the difference you can email for help or just type stuff until something runs.)
+
 *[Here](https://github.com/saffsd/langid.py) are [some](https://github.com/thearn/game-of-life) [suggestions](https://github.com/fogleman/Minecraft), but you should really [search](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E5+language%3APython+size%3A%3C150&type=Repositories&ref=searchresults) or browse and find something you like.
 
 <hr />
