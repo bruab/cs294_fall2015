@@ -14,6 +14,6 @@ morea_assessments:
 morea_type: module
 morea_sort_order: 5
 ---
-![](../../morea/images/confer.jpg)
+![](../../morea/images/confer.png)
 
 Show up on time to a 10-minute conference with your instructor. Talk about what you're going to do this semester. Get a point.
