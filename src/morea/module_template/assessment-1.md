@@ -5,8 +5,8 @@ morea_id: assessment1
 morea_type: assessment
 morea_sort_order: 1
 morea_outcomes_assessed:
-  - outcome1
-  - outcome2
+  - TODO
+  - TODO
 ---
 
 Assessed ability to TODO
