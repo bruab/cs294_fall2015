@@ -20,6 +20,11 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 #### Mystery Assignment
 
+*EDIT: The following info was contained in an email I sent to the class on 9/3, but egregiously failed to add to the web page until 9/14.*
+
+1. Mystery Assignment is due Friday, September 18.
+2. It consists of X steps to be repeated Y times, with ??? points to be awarded at various stages along the way. What you see below are instructions on *getting started*.
+
 I. Find a Python project of interest on GitHub*. Clone and run the code from the command line. (No need to fork unless you just love forking.) Send me an email with four pieces of information:
 
 1. The URL to the repository
