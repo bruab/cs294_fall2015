@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Create a Blog | CS 294 - Python Programming - Fall 2015 </title>
+  <title> Fix a TypeError | CS 294 - Python Programming - Fall 2015 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -70,14 +70,19 @@
 
 
 <div class="container">
-  <h3 id="create-a-blog">Create a blog</h3>
+  <h1 id="fix-a-typeerror">Fix a TypeError</h1>
 
-<p>Use whichever service you like – there are lots of free options. It doesn’t
-have to look pretty, though it might as well.</p>
+<p>This experience will give you more practice with git and vim, and get you started on a lifelong process of fixing errors that seemingly come from nowhere :)</p>
 
-<p>Paste your blog’s URL into the Laulima submission form and get some points.</p>
+<ul>
+  <li>Fork this repository: <a href="https://github.com/Codenhance/debug_me">https://github.com/Codenhance/debug_me</a></li>
+  <li>Clone it to your machine and run it as instructed in the README</li>
+  <li>Confirm that you receive a TypeError</li>
+  <li>Open <code>add_five.py</code> in Vim and correct the error by converting <code>user_input</code> to an integer or float</li>
+  <li>Add/Commit/Push your changes for credit</li>
+</ul>
 
-<p>For example, mine is <a href="http://codenhance.com/blog/">http://codenhance.com/blog/</a></p>
+<p>Here is an <a href="http://imgur.com/1rcnRlu">animated gif</a> of the edit you need to make. (I typed ‘G’ to go to the end of the file, then ‘k’ to go up one line. Then ‘w’, ‘w’, ‘w’ to move across the line one word at a time. I pressed ‘i’ to enter Insert mode, and typed ‘int(‘. Then I pressed escape to go back to Normal mode. After that, I typed ‘A’ to enter Insert mode <em>at the end of the current line</em>, and typed ‘)’. Exit Insert mode, ‘:wq’ and that’s it.)</p>
 
 </div>
 
