@@ -39,9 +39,10 @@ def main():
     parser.add_argument('-a1t', '--assessment-one-title')
     parser.add_argument('-a2t', '--assessment-two-title')
     args = parser.parse_args()
+    module_title = args.title.replace(" ", "_")
 
     # Make folder
-    folder_name = str(args.order) + "." + args.title
+    folder_name = str(args.order) + "." + module_title
     os.mkdir(folder_name)
 
     # Navigate into that folder
@@ -49,43 +50,43 @@ def main():
 
     # Write module file
     with open("module.md", "w") as modfile:
-        module_contents = make_module(args.title, args.order, args.icon)
+        module_contents = make_module(module_title, args.order, args.icon)
         modfile.write(module_contents)
 
     # Write outcome files
     with open("outcome-1.md", "w") as outcome1:
-        outcome_contents = make_outcome(args.outcome_one_title, 1)
+        outcome_contents = make_outcome(module_title, args.outcome_one_title, 1)
         outcome1.write(outcome_contents)
     with open("outcome-2.md", "w") as outcome2:
-        outcome_contents = make_outcome(args.outcome_two_title, 2)
+        outcome_contents = make_outcome(module_title, args.outcome_two_title, 2)
         outcome2.write(outcome_contents)
 
     # Write reading files
     with open("reading-1.md", "w") as reading1:
-        reading_contents = make_reading(args.reading_one_title,
+        reading_contents = make_reading(module_title, args.reading_one_title,
                 args.reading_one_summary, args.reading_one_url, 1)
         reading1.write(reading_contents)
     with open("reading-2.md", "w") as reading2:
-        reading_contents = make_reading(args.reading_two_title,
+        reading_contents = make_reading(module_title, args.reading_two_title,
                 args.reading_two_summary, args.reading_two_url, 2)
         reading2.write(reading_contents)
 
     # Write experience files
     with open("experience-1.md", "w") as experience1:
-        experience_contents = make_experience(args.experience_one_title,
+        experience_contents = make_experience(module_title, args.experience_one_title,
                 args.experience_one_summary, 1)
         experience1.write(experience_contents)
     with open("experience-2.md", "w") as experience2:
-        experience_contents = make_experience(args.experience_two_title,
+        experience_contents = make_experience(module_title, args.experience_two_title,
                 args.experience_two_summary, 2)
         experience2.write(experience_contents)
 
     # Write assessment files
     with open("assessment-1.md", "w") as assessment1:
-        assessment_contents = make_assessment(args.assessment_one_title, 1)
+        assessment_contents = make_assessment(module_title, args.assessment_one_title, 1)
         assessment1.write(assessment_contents)
     with open("assessment-2.md", "w") as assessment2:
-        assessment_contents = make_assessment(args.assessment_two_title, 2)
+        assessment_contents = make_assessment(module_title, args.assessment_two_title, 2)
         assessment2.write(assessment_contents)
 
 
