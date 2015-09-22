@@ -1,5 +1,5 @@
 ---
-title: "fix"
+title: "Fix"
 published: true
 morea_id: fix
 morea_outcomes:

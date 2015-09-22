@@ -1,5 +1,5 @@
 ---
-title: "reach_out"
+title: "Reach Out"
 published: true
 morea_id: reach_out
 morea_outcomes:

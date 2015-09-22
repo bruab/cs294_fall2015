@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Write code that breaks | CS 294 - Python Programming - Fall 2015 </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+
+  <!--  Load bootswatch-based Morea theme file. -->
+  <link rel="stylesheet" href="/css/themes/superhero/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.2.0/respond.js"></script>
+  <![endif]-->
+
+  <!-- Load Bootstrap JavaScript components -->
+  <script src="//code.jquery.com/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+  
+
+  <script>
+    $(window).load(function() {
+      // If on a page associated with a navbar item, make its navbar item 'active'.
+      $('.navbar-nav').find('a[href="' + location.pathname + '"]').parents('li').addClass('active');
+    });
+  </script>
+
+</head>
+<body>
+<!-- Responsive navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <!--  Display three horizontal lines when navbar collapsed. -->
+        <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/index.html"> CS 294 - Python Programming - Fall 2015 </a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        
+        <li><a href="/modules/">Modules</a></li>
+        
+          <li><a href="/outcomes/">Outcomes</a></li>
+        
+        
+          <li><a href="/readings/">Readings</a></li>
+        
+        
+          <li><a href="/experiences/">Experiences</a></li>
+        
+        
+          <li><a href="/assessments/">Assessments</a></li>
+        
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <h3 id="write-code-that-breaks">Write Code That Breaks</h3>
+
+<p>On purpose, no less. This experience leads you in launching a pre-emptive strike against some of the Python errors that will eventually plague your code no matter how smart you are.</p>
+
+<p>Fork the repository located at <a href="https://github.com/cs294-python/errors">https://github.com/cs294-python/errors</a>. Clone it and run <code>throw_err.py</code> a few times.</p>
+
+<p>The script lets you choose from a list of error types, and then when it runs it crashes beautifully, throwing the exact error you chose. Amazing!</p>
+
+<p>A peek at the code reveals that it’s not so fancy underneath the hood. For each error option, the script simply uses the <code>raise</code> command to cause the error. We can do better.</p>
+
+<h4 id="for-one-point">For one point</h4>
+
+<p>Replace every line containing the <code>raise</code> command with a line or lines which cause the same error <em>without</em> using the command. The code you write should be an example of actual code that causes the error in question.</p>
+
+<p>For example, where the script currently says</p>
+
+<pre><code>elif error_type == "zerodivision":
+    raise ZeroDivisionError
+</code></pre>
+
+<p>You should modify it to say something like</p>
+
+<pre><code>elif error_type == "zerodivision":
+    print(1/0)
+</code></pre>
+
+<h4 id="for-two-points---option-a">For two points - Option A</h4>
+
+<p>Complete the above, and add four additional error types. (The readings can help you with this.) Write real code to cause errors – don’t use <code>raise</code>.</p>
+
+<h4 id="for-two-points---option-b">For two points - Option B</h4>
+
+<p>Complete the first part, and also implement your own error class. Add code which causes this error, and a command line option to invoke it.</p>
+
+</div>
+
+
+
+<div class="footer-background  hidden-print">
+<footer>
+  <div class="container page-footer">
+    
+      <p>Brian Hall | Computer Science | UH Hilo | bhall7@hawaii.edu</p>
+
+<p>Problems with this site? File an <a href="https://github.com/bruab/cs294_fall2015/issues">issue</a>.</p>
+
+    
+    <p style="margin: 0">Powered by the <a href="http://morea-framework.github.io/">Morea Framework</a> (Theme: superhero)<br>
+       Last update on: <span>2015-09-21 14:17:58 -1000</span></p>
+    <p style="margin: 0">
+      
+      9 modules
+      
+        | 12 outcomes
+      
+      
+        | 24 readings
+      
+      
+        | 16 experiences
+      
+      
+        | 6 assessments
+      
+    </p>
+  </div>
+</footer>
+</div>
+</body>
+</html>
