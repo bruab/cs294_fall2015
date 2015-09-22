@@ -6,8 +6,10 @@ morea_outcomes:
  - outcome1
 morea_readings:
  - reading1
+ - reading2
 morea_experiences:
  - experience1
+ - experience2
 morea_assessments:
 # - assessment1
 morea_type: module
@@ -17,4 +19,4 @@ morea_sort_order: 6
 ---
 ![](../../morea/images/fix.png)
 
-In this module you'll use GitHub, git and vim to fix a trivial script that just isn't working right.
+In this module you'll use GitHub, git and vim to fix a couple of trivial scripts that just aren't working right.
