@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Prerequisites | CS 294 - Python Programming - Fall 2015 </title>
+  <title> Write code that breaks | CS 294 - Python Programming - Fall 2015 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -69,11 +69,42 @@
 </div>
 
 
-  <div class="container">
-  <h1>Prerequisites <small>in module order</small></h1>
+<div class="container">
+  <h3 id="write-code-that-breaks">Write Code That Breaks</h3>
+
+<p>On purpose, no less. This experience leads you in launching a pre-emptive strike against some of the Python errors that will eventually plague your code no matter how smart you are.</p>
+
+<p>Fork the repository located at <a href="https://github.com/cs294-python/errors">https://github.com/cs294-python/errors</a>. Clone it and run <code>throw_err.py</code> a few times.</p>
+
+<p>The script lets you choose from a list of error types, and then when it runs it crashes beautifully, throwing the exact error you chose. Amazing!</p>
+
+<p>A peek at the code reveals that it’s not so fancy underneath the hood. For each error option, the script simply uses the <code>raise</code> command to cause the error. We can do better.</p>
+
+<h4 id="for-one-point">For one point</h4>
+
+<p>Replace every line containing the <code>raise</code> command with a line or lines which cause the same error <em>without</em> using the command. The code you write should be an example of actual code that causes the error in question.</p>
+
+<p>For example, where the script currently says</p>
+
+<pre><code>elif error_type == "zerodivision":
+    raise ZeroDivisionError
+</code></pre>
+
+<p>You should modify it to say something like</p>
+
+<pre><code>elif error_type == "zerodivision":
+    print(1/0)
+</code></pre>
+
+<h4 id="for-two-points---option-a">For two points - Option A</h4>
+
+<p>Complete the above, and add four additional error types. (The readings can help you with this.) Write real code to cause errors – don’t use <code>raise</code>.</p>
+
+<h4 id="for-two-points---option-b">For two points - Option B</h4>
+
+<p>Complete the first part, and also implement your own error class. Add code which causes this error, and a command line option to invoke it.</p>
+
 </div>
-
-
 
 
 
