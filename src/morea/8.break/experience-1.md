@@ -45,4 +45,4 @@ Complete the above, and add four additional error types. (The readings can help 
 
 #### For two points - Option B
 
-Complete the first part, and also implement your own error class. Add code which causes this error, and a command line option to invoke it.
+Complete the first part, and also implement your own error class. Add code which demonstrates the purpose of your error and raises it. Add a command line option to invoke it.
