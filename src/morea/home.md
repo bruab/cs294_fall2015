@@ -18,6 +18,18 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 ## News
 
+#### Grades Release Policy
+
+The official policy of this class will be to publicly announce points earned for Experiences. If you'd like to opt out of this policy for any reason (or for no reason at all), just let me know and I'll respect your wishes. As I mentioned in class, this is not about putting students on blast -- it's about ensuring accountability and consistency for *me*.
+
+<hr />
+
+#### New Experiences Posted
+
+There are currently points available for 8 different assignments. Click on "Experiences" at the top and scroll down for due dates and more info.
+
+<hr />
+
 #### Mystery Assignment
 
 *EDIT: The following info was contained in an email I sent to the class on 9/3, but egregiously failed to add to the web page until 9/14.*
