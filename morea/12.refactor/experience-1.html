@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Assessments | CS 294 - Python Programming - Fall 2015 </title>
+  <title> Implement argparse in throw_err.py | CS 294 - Python Programming - Fall 2015 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -69,77 +69,30 @@
 </div>
 
 
-  <div class="container">
-  <h1>Assessments <small>in module order</small></h1>
-</div>
-
 <div class="container">
-  <p>This page collects together all of the “assessments” associated with individual modules.</p>
+  <h3 id="implement-argparse-in-throwerrpy">Implement argparse in throw_err.py</h3>
 
-<p>In this site, assessments represent the <em>results</em> of performing assessment activities, not the assessments themselves.</p>
+<p>If you haven’t done so already, fork and clone the repository at <a href="https://github.com/cs294-python/errors">https://github.com/cs294-python/errors</a>. This code works fine, but could be cleaner. Use the built in <code>argparse</code> library to simplify handling command line arguments.</p>
 
-<p>Publishing assessment results enable students to see how well they did compared to others.  It also allows the instructor to provide feedback about the assessment activity.</p>
-
-</div>
-
-<div class="section-background-1">
-  <div class="container">
-    <h2><small>Module:</small> <a href="/cs294_fall2015/modules/BeSocial/index.html">Be Social</a></h2>
-
-    
-      
-      <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="be_social_assessment"></a><h3>Be Social - Results</h3>
-      <p>
-        
-      </p>
-      
-      <p>Here is a sweet wordcloud representing our feelings about Laulima.</p>
-
-<p><img src="../../morea/images/laulima_feelings.wordcloud.png" alt="" />
-<img src="../morea/images/laulima_feelings.wordcloud.png" alt="" /></p>
-
-
-    
-  </div>
-</div>
-
-<div class="section-background-2">
-  <div class="container">
-    <h2><small>Module:</small> <a href="/cs294_fall2015/modules/Commit/index.html">Commit</a></h2>
-
-    
-      
-      <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="commit_assessment"></a><h3>Commit - Results</h3>
-      <p>
-        
-      </p>
-      
-      <p>One of the outcomes for this module was for students to report on their expectations for the class. Here is a sampling of ideas and possible goals mentioned in the first class meeting:</p>
+<p>There is more than one way to accomplish this. You’ll get a point if your code</p>
 
 <ul>
-  <li>android python app</li>
-  <li>simulations on the entire universe’s cats</li>
-  <li>robot hawk</li>
-  <li>working, useable code</li>
-  <li>windows software</li>
-  <li>useful scripts for my job</li>
-  <li>an android app or plugins for blender games</li>
-  <li>death star</li>
-  <li>a program to pull relevant information from a website</li>
-  <li>abstract algebra made easy</li>
-  <li>a program</li>
-  <li>observatory archive through python</li>
-  <li>something that makes astro monkey work not so monkey work-like</li>
-  <li>death+star+python</li>
+  <li>Uses argparse</li>
+  <li>Still throws errors based on arguments</li>
 </ul>
 
-<p>At least two or three of these things will happen :)</p>
+<p><em>NOTE: By those criteria, it is okay if your code requires slightly different arguments than the original version.</em> For example, it’s acceptable to require typing</p>
 
-    
-  </div>
+<p><code>python throw_err.py --assertion</code></p>
+
+<p>as opposed to</p>
+
+<p><code>python throw_err.py assertion</code></p>
+
+<p>BTW <a href="https://github.com/genomeannotation/GAG/issues/160">here</a> is how (and when) I learned about argparse :)</p>
+
+
 </div>
-
-
 
 
 
