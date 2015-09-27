@@ -8,7 +8,7 @@ morea_sort_order: 2
 morea_labels:
  - 15 min
  - 1 pt
- - due Sep 4
+ - closed
 ---
 
 ### Create a blog

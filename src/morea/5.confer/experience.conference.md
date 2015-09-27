@@ -8,6 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 10 min
  - 1 pt
+ - closed
 ---
 
 ### Conference Attendance Point

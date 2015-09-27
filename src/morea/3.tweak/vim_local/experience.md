@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 30-45 min
  - 1 pt
- - due Sep 4
+ - closed
 ---
 
 ### Try Vim Locally

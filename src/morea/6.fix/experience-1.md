@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 30 min
  - 1 pt
- - due Sep 16
+ - closed
 ---
 
 # Fix a TypeError

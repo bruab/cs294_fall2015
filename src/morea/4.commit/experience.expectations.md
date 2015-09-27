@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 1 hr
  - 1 pt
- - due Sep 4
+ - closed
 ---
 
 ### Blog about your expectations for the class

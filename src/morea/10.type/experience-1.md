@@ -7,7 +7,8 @@ morea_summary: "Work those fingers"
 morea_sort_order: 1
 morea_labels:
  - 2 hrs
- - 1 pt
+ - 1-6 pts
+ - due Oct 30
 ---
 
 ### Type Code for 2 Hours

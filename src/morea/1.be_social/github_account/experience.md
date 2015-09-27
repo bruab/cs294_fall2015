@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 10 min
  - 1 pt
- - due Sep 4
+ - closed
 ---
 
 ### Create a GitHub account

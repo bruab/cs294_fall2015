@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 1-2 pts
  - 1-3 hours
- - due Sep 25
+ - closed
 ---
 
 ### Write Code That Breaks

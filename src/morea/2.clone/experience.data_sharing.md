@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 1 hr
  - 2 pts
- - due Sep 4
+ - closed
 ---
 
 ### Blog About Data Sharing
