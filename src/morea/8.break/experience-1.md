@@ -27,17 +27,17 @@ Replace every line containing the `raise` command with a line or lines which cau
 
 For example, where the script currently says
 
-```
+{% highlight python %}
 elif error_type == "zerodivision":
     raise ZeroDivisionError
-```
+{% endhighlight %}
 
 You should modify it to say something like
 
-```
+{% highlight python %}
 elif error_type == "zerodivision":
     print(1/0)
-```
+{% endhighlight %}
 
 #### For two points - Option A
 
