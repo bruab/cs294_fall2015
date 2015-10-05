@@ -8,7 +8,7 @@ morea_sort_order: 2
 morea_labels:
  - 1 hr
  - 1 pt
- - due Oct 2
+ - closed
 ---
 
 # Fix Some Syntax Errors

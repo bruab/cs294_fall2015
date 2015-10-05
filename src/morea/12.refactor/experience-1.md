@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 1-2 hrs
  - 1 pt
- - due Oct 2
+ - closed
 ---
 
 ### Implement argparse in throw_err.py
