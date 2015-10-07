@@ -1,17 +1,9 @@
----
-title: "Refactor - results"
-published: true
-morea_id: Refactor.assessment1
-morea_type: assessment
-morea_sort_order: 1
-morea_outcomes_assessed:
-  - Refactor.outcome1
----
+<p>Assessed ability to produce errors</p>
 
-Assessed ability to modify existing Python code
+<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css" />
 
-<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+
 <script src="http://cdn.oesmith.co.uk/morris-0.4.3.min.js"></script>
 
 <div class="well">
@@ -23,8 +15,9 @@ Morris.Bar({
   element: 'assessment',
   hideHover: false,
   data: [
-        { y: 'Completed', num: 13 },
-        { y: 'Skipped it', num: 4 },
+        { y: '2 points', num: 8 },
+        { y: '1 point', num: 5 },
+        { y: 'No points', num: 4 },
         ],
   xkey: 'y',
   ykeys: ['num'],
@@ -32,3 +25,4 @@ Morris.Bar({
   labels: ['Students']
 });
 </script>
+

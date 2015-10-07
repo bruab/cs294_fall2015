@@ -10,8 +10,7 @@ morea_readings:
 morea_experiences:
  - break.experience1
 morea_assessments:
-# - break.assessment1
-# - break.assessment2
+ - break.assessment1
 morea_type: module
 morea_icon_url: /morea/images/break.jpg
 morea_summary: Get intimate with errors

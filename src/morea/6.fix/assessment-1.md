@@ -1,15 +1,14 @@
 ---
-title: "TODO"
+title: "Fix TypeError - results"
 published: true
 morea_id: assessment1
 morea_type: assessment
 morea_sort_order: 1
 morea_outcomes_assessed:
-# - TODO
-# - TODO
+  - outcome1
 ---
 
-Assessed ability to TODO
+Assessed ability to diagnose and correct a Python error
 
 <link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
@@ -24,10 +23,8 @@ Morris.Bar({
   element: 'assessment',
   hideHover: false,
   data: [
-        { y: 'Very satisfactory (%)', num: 25 },
-        { y: 'Satisfactory (%)', num: 40 },
-        { y: 'Unsatisfactory (%)', num: 30 },
-        { y: 'Absent (%)', num: 5 },
+        { y: 'Completed (%)', num: 11 },
+        { y: 'Skipped it (%)', num: 6 },
         ],
   xkey: 'y',
   ykeys: ['num'],

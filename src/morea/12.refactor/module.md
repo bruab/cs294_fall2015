@@ -11,8 +11,7 @@ morea_readings:
 morea_experiences:
  - Refactor.experience1
 morea_assessments:
-# - Refactor.assessment1
-# - Refactor.assessment2
+ - Refactor.assessment1
 morea_type: module
 morea_icon_url: /morea/images/refactor.png
 morea_summary: Spend time and mental effort adding NO FUNCTIONALITY WHATSOEVER

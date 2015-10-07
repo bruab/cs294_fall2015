@@ -11,7 +11,7 @@ morea_experiences:
  - experience1
  - experience2
 morea_assessments:
-# - assessment1
+ - assessment1
 morea_type: module
 morea_icon_url: /morea/images/fix.png
 morea_summary: "Time to get your hands dirty"
