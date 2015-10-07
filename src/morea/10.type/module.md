@@ -9,6 +9,7 @@ morea_readings:
  - Type.reading2
  - Type.reading3
  - Type.reading4
+ - Type.reading5
 morea_experiences:
  - Type.experience1
 morea_assessments:
