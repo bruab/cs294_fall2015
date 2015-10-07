@@ -204,6 +204,57 @@
 
 
 
+<div class="section-background-2">
+  <div class="container">
+    <h2>Assessments</h2>
+
+    
+      
+      <h3>Fix TypeError - results</h3>
+      <p>
+        
+      </p>
+    
+    <p>
+      <em>Outcomes assessed:</em>
+      
+      <a href="/outcomes/#outcome1">Students will diagnose and correct a Python error</a>
+      
+    </p>
+    
+      <p>Assessed ability to diagnose and correct a Python error</p>
+
+<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css" />
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+
+<script src="http://cdn.oesmith.co.uk/morris-0.4.3.min.js"></script>
+
+<div class="well">
+  <div id="assessment" style="height: 250px;"></div>
+</div>
+
+<script>
+Morris.Bar({
+  element: 'assessment',
+  hideHover: false,
+  data: [
+        { y: 'Completed (%)', num: 11 },
+        { y: 'Skipped it (%)', num: 6 },
+        ],
+  xkey: 'y',
+  ykeys: ['num'],
+  resize: true,
+  labels: ['Students']
+});
+</script>
+
+
+    
+
+  </div>
+</div>
+
 
 
 
@@ -221,7 +272,7 @@
 
     
     <p style="margin: 0">Powered by the <a href="http://morea-framework.github.io/">Morea Framework</a> (Theme: superhero)<br>
-       Last update on: <span>2015-10-05 14:09:19 -1000</span></p>
+       Last update on: <span>2015-10-06 15:21:54 -1000</span></p>
     <p style="margin: 0">
       
       14 modules
@@ -235,7 +286,7 @@
         | 23 experiences
       
       
-        | 6 assessments
+        | 8 assessments
       
     </p>
   </div>
