@@ -11,6 +11,7 @@ morea_readings:
 morea_experiences:
  - Hone.experience1
  - Hone.experience2
+ - Hone.experience3
 morea_assessments:
 # - Hone.assessment1
 # - Hone.assessment2
