@@ -7,6 +7,7 @@ morea_outcomes:
 morea_readings:
  - Type.reading1
  - Type.reading2
+ - Type.reading3
 morea_experiences:
  - Type.experience1
 morea_assessments:
