@@ -8,8 +8,11 @@ morea_outcomes:
 morea_readings:
  - Refactor.reading1
  - Refactor.reading2
+ - Refactor.reading3
+ - Refactor.reading4
 morea_experiences:
  - Refactor.experience1
+ - Refactor.experience2
 morea_assessments:
  - Refactor.assessment1
 morea_type: module
