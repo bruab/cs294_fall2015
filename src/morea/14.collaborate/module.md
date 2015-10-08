@@ -7,6 +7,8 @@ morea_outcomes:
 morea_readings:
 morea_experiences:
  - collaborate.experience1
+ - collaborate.experience2
+ - collaborate.experience3
 morea_assessments:
 # - collaborate.assessment1
 # - collaborate.assessment2
