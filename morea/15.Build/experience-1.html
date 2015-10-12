@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Schedule | CS 294 - Python Programming - Fall 2015 </title>
+  <title> Create your own toy Python package | CS 294 - Python Programming - Fall 2015 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -69,30 +69,18 @@
 </div>
 
 
-  <!-- Load FullCalendar for schedule page. -->
-<!-- Documentation available at: http://fullcalendar.io/ -->
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.1/fullcalendar.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.1/fullcalendar.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.1/gcal.js"></script>
+<div class="container">
+  <h3 id="create-your-own-toy-python-package">Create your own toy Python package</h3>
 
-<!-- This script defines the moreaEventData variable containing an array of events from Morea pages. -->
-<script src="schedule-info.js"></script>
+<p>Follow <a href="http://codenhance.com/2015/10/12/python-modules-and-packages.html">this tutorial</a>. You’re welcome to use more creative module, function and variable names than I did :)</p>
 
-<div style="margin-bottom: 10px" class="container">
-  <h1>Schedule</h1>
+<p>Once you complete it, type this command to write your terminal history to a text file:</p>
 
-  <div id='calendar'></div>
+<p><code>history &gt; my_history.txt</code></p>
+
+<p>Upload the file <code>my_history.txt</code> to Slack and @mention me for credit.</p>
+
 </div>
-<script>
-  $(document).ready(function () {
-    $('#calendar').fullCalendar({
-      eventColor: '#446e9b',
-      events: moreaEventData
-    });
-  });
-</script>
-
 
 
 
