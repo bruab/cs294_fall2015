@@ -10,6 +10,7 @@ morea_readings:
  - Refactor.reading2
  - Refactor.reading3
  - Refactor.reading4
+ - Refactor.reading5
 morea_experiences:
  - Refactor.experience1
  - Refactor.experience2
