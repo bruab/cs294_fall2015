@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 3 hrs
  - 3 points
- - due 9 Oct
+ - closed
 ---
 
 ### Work with a partner to improve some lousy code
