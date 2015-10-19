@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 2 pts
  - 2 hrs
- - due Oct 16
+ - closed
 ---
 
 ### Take a quiz

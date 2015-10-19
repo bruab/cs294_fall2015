@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 1 pt
  - 30 minutes
- - due 12 Oct
+ - closed
 ---
 
 ### Create your own toy Python package

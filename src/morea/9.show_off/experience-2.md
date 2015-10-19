@@ -9,7 +9,7 @@ morea_sort_order: 2
 morea_labels:
  - hours and hours
  - 1-3 points
- - due Oct 16
+ - closed
 ---
 
 ### Make a Command Line Vine

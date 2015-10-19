@@ -8,7 +8,7 @@ morea_sort_order: 1
 morea_labels:
  - 40 min
  - 2 pts
- - due Oct 14
+ - closed
 ---
 
 ### Re-create a repository, complete with unit tests
