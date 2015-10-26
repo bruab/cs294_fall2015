@@ -8,7 +8,7 @@ morea_sort_order: 2
 morea_labels:
  - 1-3 hrs
  - 3 pts
- - due Oct 23
+ - closed
 ---
 
 ### Refactor code using PEP 8
