@@ -18,6 +18,32 @@ If you're running VirtualBox with the Ubuntu image I provided, the sudo password
 
 ## News
 
+#### What's my grade?
+
+If you haven't talked to me about grades then that might be a good idea. DM me in Slack.
+
+<hr />
+
+#### Code Reviews on Slack
+
+Need code review points? Here's how to make it happen:
+
+- Find one or two other students who also want to do code reviews
+- Pick a time to meet on Slack in the #code_reviews channel
+- Each person should:
+  - Paste the URL to their code
+  - Specify line numbers if necessary
+  - Read other people's code
+  - Run other people's code if possible
+  - Take a turn explaining what your code does
+  - Ask questions or make comments about other people's code
+- @mention me so I can read the conversation and award points
+
+You're welcome to invite me to your code review, too -- as we all know, I have no life -- but it's *not required*. 
+
+<hr />
+
+
 #### Grades Release Policy
 
 The official policy of this class will be to publicly announce points earned for Experiences. If you'd like to opt out of this policy for any reason (or for no reason at all), just let me know and I'll respect your wishes. As I mentioned in class, this is not about putting students on blast -- it's about ensuring accountability and consistency for *me*.
